@@ -58,13 +58,14 @@ The Gradio interface will launch in your browser.
 
 ```
 .
-├── app.py                # Gradio web app
+├── app.py                        # Gradio web app
 ├── src/
-│   ├── agents.py         # Agent definitions
-│   ├── generator.py      # Blog post generation workflow
-│   ├── model.py          # LLM model (OpenAI, Gemini, Claude, Grok)
-│   ├── response_model.py # Pydantic models for responses
-│   └── utils.py          # Utilities 
+│   └── ai_blog_generator/
+│       ├── agents.py             # Agent definitions
+│       ├── generator.py          # Blog post generation workflow
+│       ├── model.py              # LLM model (OpenAI, Gemini, Claude, Grok)
+│       ├── response_model.py     # Pydantic models for responses
+│       └── utils.py              # Utilities
 ├── pyproject.toml
 ├── README.md
 └── ...
