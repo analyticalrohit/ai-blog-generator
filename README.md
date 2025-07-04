@@ -7,6 +7,11 @@ AI Blog Generator is an advanced, multi-agent system for generating professional
 <p align="center">
 <img src="./images/blog_generator.gif" />
 </p>
+<p align="center">
+  <a href="https://huggingface.co/spaces/analyticalrohit/ai-blog-generator" style="color:#1a0dab;">
+    <strong>🚀 Launch App &rarr; <span style="color:#1a0dab;">https://huggingface.co/spaces/analyticalrohit/ai-blog-generator</span></strong>
+  </a>
+</p>
 
 ## Features
 
