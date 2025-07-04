@@ -3,6 +3,9 @@ name = "ai_blog_generator"
 version = "0.1.0"
 description = "AI Blog Generator is powered by multi-agents based on Agno framework."
 readme = "README.md"
+authors = [
+    { name = "Rohit Kumar Tiwari", email = "analyticalrohit.connect@gmail.com" }
+]
 requires-python = ">=3.12"
 dependencies = [
 	"python-dotenv",
