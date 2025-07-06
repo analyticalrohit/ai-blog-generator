@@ -5,7 +5,14 @@
 AI Blog Generator is an advanced, multi-agent system for generating professional, well-researched blog posts using the [Agno framework](https://github.com/agno-agi/agno). It supports leading LLM providers including **OpenAI**, **Gemini**, **Claude**, and **Grok**.
 
 <p align="center">
-<img src="./images/blog_generator.gif" />
+  <a href="https://awesomeneuron.substack.com/">
+    <img src="./assets/multi_agent_blog_generator.gif">
+  </a>
+</p>
+<p align="center">
+  <a href="https://awesomeneuron.substack.com/">
+    <img src="./assets/multi_agent_blog_generator_usage.gif" />
+  </a>
 </p>
 <p align="center">
   🚀 Launch App &rarr; <a href="https://huggingface.co/spaces/analyticalrohit/ai-blog-generator">https://huggingface.co/spaces/analyticalrohit/ai-blog-generator</a>
@@ -51,6 +58,8 @@ The Gradio interface will launch in your browser.
 3. Choose an example topic or enter your own.
 4. Click Generate Blog to create a post.
 
+[![Watch on Youtube](./assets/thumbnail_youtube.png)](https://www.youtube.com/watch?v=smzPuZZMBvs)
+
 ## Example Prompts
 
 - How Generative AI is Changing the Way We Work
@@ -73,8 +82,7 @@ The Gradio interface will launch in your browser.
 ├── README.md
 └── ...
 ```
-## Newsletter
-
+## Stay Updated
 <div align="left">
 
 [![Subscribe to AwesomeNeuron Newsletter](https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/5ab83e498b11eefe57c91bc4f4cac10414276920/assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
