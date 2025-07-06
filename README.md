@@ -1,4 +1,13 @@
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit) [<img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" />](https://substack.com/@analyticalrohit) [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="100" height="35" />](https://x.com/_rohit_tiwari_) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" />](https://www.youtube.com/@awesomeneuron?sub_confirmation=1) [<img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/topmate_logo.png" width="100" height="35" />](https://topmate.io/analyticalrohit) [<img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_logo.png" width="100" height="35" />](https://awesomeneuron.substack.com/)
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=analyticalrohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" width="100" height="35" /></a></td>
+    <td><a href="https://substack.com/@analyticalrohit"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white" width="100" height="35" /></a></td>
+    <td><a href="https://x.com/_rohit_tiwari_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="100" height="35" /></a></td>
+    <td><a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" height="35" /></a></td>
+    <td><a href="https://topmate.io/analyticalrohit"><img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/topmate_logo.png" width="100" height="35" /></a></td>
+    <td><a href="https://awesomeneuron.substack.com/"><img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_logo.png" width="100" height="35" /></a></td>
+  </tr>
+</table>
 
 # AI Blog Generator
 
