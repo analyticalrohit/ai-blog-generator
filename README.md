@@ -100,7 +100,7 @@ The Gradio interface will launch in your browser.
 ```
 ## Newsletter
 <div style="text-align: left;">
-📌 Join 1800+ ML enthusiasts and professionals from 90 countries.<br>
+📌 Join 2000+ ML enthusiasts and professionals from 100 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
@@ -122,7 +122,7 @@ The Gradio interface will launch in your browser.
 
 ## Contributing
 
-We welcome contributions from the community! If you have a new technique or improvement to suggest:
+We welcome contributions from the community! If you have an addition or improvement to suggest:
 
 1. Fork the repository
 2. Create your feature branch: `git checkout -b feature/AmazingFeature`
@@ -137,5 +137,7 @@ This project is licensed under [MIT License](LICENSE).
 ---
 
 ⭐️ If you find this repository helpful, please consider giving it a star!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=analyticalrohit/ai-blog-generator&type=Date)](https://www.star-history.com/#analyticalrohit/ai-blog-generator&Date)
 
 Keywords: AI, Machine Learning, Generative AI, LLM, AI Agents, Agentic AI, Agno
